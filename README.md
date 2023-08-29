@@ -1,5 +1,7 @@
 ### Hi there 👋
+With an insatiable curiosity for the digital realm, armed with lines of code and a determination that knows no bounds, they navigate through the virtual labyrinth, constantly seeking to understand the vulnerabilities that lie beneath the surface.
 
+With a cup of coffee in one hand and a keyboard under the other, I learn development frameworks and hacking tools.
 <!--
 **Z3r0Tw0-ZT/Z3r0Tw0-ZT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
