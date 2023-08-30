@@ -9,8 +9,8 @@
 📖I love reading books on **personal development** & **financial literacy**. Pass time books include **fantasy, horror, thriller and mystery.**
 
 <!-- Add Skills -->
-## Skills
-### Programming Languages
+<!-- ## Skills
+### Programming Languages -->
 
 <!-- Add github Stats -->
 <!-- Add links -->
