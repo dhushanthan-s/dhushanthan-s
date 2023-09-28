@@ -1,5 +1,4 @@
 ## Hi there 👋
-<!-- Add emojis -->
 🎓I am Dhushanthan, pursuing my Bachelor's in **Computer Science and Engineering**.
 
 🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python.** My current pursuit include **MERN Stack, jQuery, Django, Flask and Flutter**.
@@ -10,7 +9,6 @@
 
 <!-- TODO: add Skills -->
 <!-- ## Skills
-
 #### Programming Languages
 C, C++, Python, JavaScript
 #### Framework
@@ -37,7 +35,7 @@ Windows, Linux, Mac -->
 <a href="https://www.reddit.com/user/Z3r0Tw0-ZT">
 <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-link?style=for-the-badge&logo=reddit&logoColor=white&color=%23ff4500">
 </a>
-<a hred="https://www.linkedin.com/in/dhushanthan/">
+<a href="https://www.linkedin.com/in/dhushanthan/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-link?style=for-the-badge&logo=linkedin&color=%230a66c1">
 </a>
 
