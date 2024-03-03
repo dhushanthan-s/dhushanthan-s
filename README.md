@@ -32,9 +32,6 @@ Windows, Linux, Mac -->
 <a href="https://twitter.com/Z3r0Tw0_ZT">
 <img alt="Static Badge" src="https://img.shields.io/badge/Follow%20me-link?style=for-the-badge&logo=x&logoColor=white&color=black">
 </a>
-<a href="https://www.reddit.com/user/Z3r0Tw0-ZT">
-<img alt="Static Badge" src="https://img.shields.io/badge/Reddit-link?style=for-the-badge&logo=reddit&logoColor=white&color=%23ff4500">
-</a>
 <a href="https://www.linkedin.com/in/dhushanthan/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-link?style=for-the-badge&logo=linkedin&color=%230a66c1">
 </a>
