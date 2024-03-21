@@ -1,7 +1,7 @@
 ## Hi there 👋
 🎓I am Dhushanthan, pursuing my Bachelor's in **Computer Science and Engineering**.
 
-🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python.** My current pursuit include **MERN Stack, jQuery, Django, Flask and Flutter**.
+🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python.** My current pursuit include **MERN Stack, Django, Flask and Java**.
 
 🧑‍🍳Outside tech I develop various skills including **touch typing, cooking and sketching.**
 
@@ -10,7 +10,7 @@
 <!-- TODO: add Skills -->
 <!-- ## Skills
 #### Programming Languages
-C, C++, Python, JavaScript
+C, C++, Python, JavaScript, Java, Lua, Bash
 #### Framework
 React, Express, Redux, Laravel, Django, Flask, Flutter, jQuery
 #### Operating System 
