@@ -1,20 +1,43 @@
 ## Hi there 👋
 🎓I am Dhushanthan, pursuing my Bachelor's in **Computer Science and Engineering**.
 
-🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python.** My current pursuit include **MERN Stack, Django, Flask and Java**.
+🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuit include **Rust, Typescript, Django, Flask and Ethical hacking**.
 
-🧑‍🍳Outside tech I develop various skills including **touch typing, cooking and sketching.**
+🧑‍🍳Outside tech I develop various skills including **cooking and sketching.**
 
-📖I love reading books on **personal development** & **financial literacy**. Pass time books include **fantasy, horror, thriller and mystery.**
+📖I love reading books on **personal development** & **financial literacy**. Pass time books include **fantasy, horror, isekai, thriller and mystery.**
 
 <!-- TODO: add Skills -->
-<!-- ## Skills
-#### Programming Languages
-C, C++, Python, JavaScript, Java, Lua, Bash
-#### Framework
-React, Express, Redux, Laravel, Django, Flask, Flutter, jQuery
-#### Operating System 
-Windows, Linux, Mac -->
+## Skills
+### Programming Languages
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/-programming?style=for-the-badge&logo=c&logoColor=white&labelColor=%23007acc&color=%23007acc">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++-programming?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599c">
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-programming?style=for-the-badge&logoColor=white&color=%23e25040">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-programming?style=for-the-badge&logo=python&logoColor=white&color=%23547da6">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-programming?style=for-the-badge&logo=javascript&logoColor=white&color=%23f0dc55">
+<img alt="Static Badge" src="https://img.shields.io/badge/php-programming?style=for-the-badge&logo=php&logoColor=white&color=%237b7fb5">
+<img alt="Static Badge" src="https://img.shields.io/badge/lua-programming?style=for-the-badge&logo=lua&logoColor=white&color=%23080884">
+<img alt="Static Badge" src="https://img.shields.io/badge/bash-programming?style=for-the-badge&logo=gnometerminal&logoColor=white&color=%2330363c">
+</div>
+
+### Framework
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-framework?style=for-the-badge&logo=flask&logoColor=white&color=%23000">
+<img alt="Static Badge" src="https://img.shields.io/badge/jQuery-framework?style=for-the-badge&logo=jquery&logoColor=white&color=%230769ad">
+<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-framework?style=for-the-badge&logo=laravel&logoColor=white&color=%23ff2d20">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-framework?style=for-the-badge&logo=react&logoColor=white&color=%2361dafb">
+<img alt="Static Badge" src="https://img.shields.io/badge/Springboot-framework?style=for-the-badge&logo=spring&logoColor=white&color=%236db33f">
+</div>
+
+### Operating System 
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows-OS?style=for-the-badge&logo=windows&logoColor=white&color=%230078d6">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linux-OS?style=for-the-badge&logo=linux&logoColor=white&color=%23000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Mac-OS?style=for-the-badge&logo=apple&logoColor=white&color=%23999999">
+</div>
+
 
 <!-- TODO: add github stats -->
 <!-- Add github Stats -->
