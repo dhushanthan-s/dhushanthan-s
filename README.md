@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓I am Dhushanthan, pursuing my Bachelor's in **Computer Science and Engineering**.
+🎓I am Dhushanthan, Engineering graduate in **Computer Science and Engineering**.
 
 🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuit include **Rust, Typescript, Django, Flask and Ethical hacking**.
 
