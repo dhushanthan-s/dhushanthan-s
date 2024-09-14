@@ -7,7 +7,6 @@
 
 📖I love reading books on **personal development** & **financial literacy**. Pass time books include **fantasy, horror, isekai, thriller and mystery.**
 
-<!-- TODO: add Skills -->
 ## Skills
 ### Programming Languages
 <div>
@@ -27,7 +26,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-framework?style=for-the-badge&logo=flask&logoColor=white&color=%23000">
 <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-framework?style=for-the-badge&logo=jquery&logoColor=white&color=%230769ad">
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-framework?style=for-the-badge&logo=laravel&logoColor=white&color=%23ff2d20">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-framework?style=for-the-badge&logo=react&logoColor=white&color=%2361dafb">
 <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-framework?style=for-the-badge&logo=spring&logoColor=white&color=%236db33f">
 </div>
 
@@ -41,7 +39,6 @@
 
 <!-- TODO: add github stats -->
 <!-- Add github Stats -->
-<!-- Add links -->
 ## Short Introduction
 😁I am an `Otaku`🏯 with an insatiable curiosity for the digital realm, armed with lines of code and a determination that knows no bounds, navigating through the virtual labyrinth, constantly seeking to understand the vulnerabilities that lie beneath the surface. With a cup of coffee in one hand and a keyboard under the other, I learn development frameworks and hacking tools.
 
@@ -58,12 +55,6 @@
 <a href="https://www.linkedin.com/in/dhushanthan/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-link?style=for-the-badge&logo=linkedin&color=%230a66c1">
 </a>
-
-<!-- TODO: Future adds -->
-<!-- Twitch and YouTube -->
-<!-- <a href="https://www.twitch.tv/z3r0tw0_zt">
-<img alt="Static Badge" src="https://img.shields.io/badge/twitch-link?style=for-the-badge&logo=twitch&logoColor=white&color=%238c44f6">
-</a>
 <a href="https://www.youtube.com/@Z3r0Tw0_ZT">
 <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-link?style=for-the-badge&logo=youtube&color=%23ff0000">
-</a> -->
+</a>
