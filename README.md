@@ -22,11 +22,10 @@
 
 ### Framework
 <div>
-<img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20"> -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-framework?style=for-the-badge&logo=flask&logoColor=white&color=%23000">
 <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-framework?style=for-the-badge&logo=jquery&logoColor=white&color=%230769ad">
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-framework?style=for-the-badge&logo=laravel&logoColor=white&color=%23ff2d20">
-<img alt="Static Badge" src="https://img.shields.io/badge/Springboot-framework?style=for-the-badge&logo=spring&logoColor=white&color=%236db33f">
 </div>
 
 ### Operating System 
@@ -36,9 +35,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Mac-OS?style=for-the-badge&logo=apple&logoColor=white&color=%23999999">
 </div>
 
-
 <!-- TODO: add github stats -->
-<!-- Add github Stats -->
+
 ## Short Introduction
 😁I am an `Otaku`🏯 with an insatiable curiosity for the digital realm, armed with lines of code and a determination that knows no bounds, navigating through the virtual labyrinth, constantly seeking to understand the vulnerabilities that lie beneath the surface. With a cup of coffee in one hand and a keyboard under the other, I learn development frameworks and hacking tools.
 
