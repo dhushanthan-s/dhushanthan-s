@@ -10,21 +10,27 @@
 ## Skills
 ### Programming Languages
 <div>
+<!-- C -->
 <img alt="Static Badge" src="https://img.shields.io/badge/-programming?style=for-the-badge&logo=c&logoColor=white&labelColor=%23007acc&color=%23007acc">
+<!-- C++ -->
 <img alt="Static Badge" src="https://img.shields.io/badge/C++-programming?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599c">
+<!-- Java -->
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-programming?style=for-the-badge&logoColor=white&color=%23e25040">
+<!-- Python -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-programming?style=for-the-badge&logo=python&logoColor=white&color=%23547da6">
+<!-- javascript -->
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-programming?style=for-the-badge&logo=javascript&logoColor=white&color=%23f0dc55">
-<img alt="Static Badge" src="https://img.shields.io/badge/php-programming?style=for-the-badge&logo=php&logoColor=white&color=%237b7fb5">
-<img alt="Static Badge" src="https://img.shields.io/badge/lua-programming?style=for-the-badge&logo=lua&logoColor=white&color=%23080884">
+<!-- Bash -->
 <img alt="Static Badge" src="https://img.shields.io/badge/bash-programming?style=for-the-badge&logo=gnometerminal&logoColor=white&color=%2330363c">
 </div>
 
 ### Framework
 <div>
-<!-- <img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20"> -->
+<!-- Flask -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-framework?style=for-the-badge&logo=flask&logoColor=white&color=%23000">
-<img alt="Static Badge" src="https://img.shields.io/badge/jQuery-framework?style=for-the-badge&logo=jquery&logoColor=white&color=%230769ad">
+<!-- Django -->
+<img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20">
+<!-- Laravel -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-framework?style=for-the-badge&logo=laravel&logoColor=white&color=%23ff2d20">
 </div>
 
@@ -47,9 +53,6 @@
 
 ## Social links
 
-<a href="https://twitter.com/Z3r0Tw0_ZT">
-<img alt="Static Badge" src="https://img.shields.io/badge/Follow%20me-link?style=for-the-badge&logo=x&logoColor=white&color=black">
-</a>
 <a href="https://www.linkedin.com/in/dhushanthan/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-link?style=for-the-badge&logo=linkedin&color=%230a66c1">
 </a>
