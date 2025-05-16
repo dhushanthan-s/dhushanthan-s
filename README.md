@@ -1,7 +1,7 @@
 ## Hi there 👋
-🎓I am Dhushanthan, Engineering graduate in **Computer Science and Engineering**.
+🎓I am Dhushanthan, Back-end developer at **Zoho Corporation Private Limited**.
 
-🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuit include **Rust, Typescript, Django, Flask and Ethical hacking**.
+🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuit include **Rust, Typescript, and Ethical hacking**.
 
 🧑‍🍳Outside tech I develop various skills including **cooking and sketching.**
 
@@ -56,6 +56,6 @@
 <a href="https://www.linkedin.com/in/dhushanthan/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-link?style=for-the-badge&logo=linkedin&color=%230a66c1">
 </a>
-<a href="https://www.youtube.com/@Z3r0Tw0_ZT">
+<a href="https://www.youtube.com/@Not_A_Pro_Stream">
 <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-link?style=for-the-badge&logo=youtube&color=%23ff0000">
 </a>
