@@ -1,7 +1,7 @@
 ## Hi there 👋
 🎓I am Dhushanthan, Back-end developer at **Zoho Corporation Private Limited**.
 
-🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuit include **Rust, Typescript, and Ethical hacking**.
+🧑‍💻I am really enthusiastic about learning new technology. I started my foundation from **C and C++** and slowly worked my way to **Python** and **Java.** My current pursuits are **Rust, and Ethical hacking**.
 
 🧑‍🍳Outside tech I develop various skills including **cooking and sketching.**
 
@@ -29,7 +29,7 @@
 <!-- Flask -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-framework?style=for-the-badge&logo=flask&logoColor=white&color=%23000">
 <!-- Django -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/Django-framework?style=for-the-badge&logo=django&logoColor=white&color=%23092e20"> -->
 <!-- Laravel -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-framework?style=for-the-badge&logo=laravel&logoColor=white&color=%23ff2d20">
 </div>
